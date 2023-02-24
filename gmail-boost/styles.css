@@ -223,8 +223,25 @@ header.gb_oa.gb_1a.gb_Qe.gb_Mc:not(header.gb_oa.gb_1a.gb_Qe.gb_4.gb_Mc) svg {
 img.gb_Fc {
   filter: grayscale(1) !important;
 }
-/* Footer */
+/* Hide avatar */
+.gb_d {
+  display: none;
+}
+img.gb_h {
+  display: none;
+}
+/* Hide settings logo */
+svg.Xy {
+  display: none;
+}
+/* Hide search buttons */
+button.gb_rf {
+  display: none;
+}
+button.gb_xf {
+  display: none;
+}
+/* Hide footer */
 .l2.pfiaof.V4 {
   display: none;
 }
-
