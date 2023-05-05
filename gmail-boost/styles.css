@@ -220,7 +220,7 @@ header.gb_oa.gb_1a.gb_Qe.gb_Mc:not(header.gb_oa.gb_1a.gb_Qe.gb_4.gb_Mc) svg {
   transition: all .24s ease-in-out;
 }
 /* Gray logo */
-img.gb_Fc {
+header a[aria-label="Gmail"] img {
   filter: grayscale(1) !important;
 }
 /* Hide avatar */
